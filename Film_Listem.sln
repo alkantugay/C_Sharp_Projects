@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Film_Listem", "Film_Listem.csproj", "{E35B50F6-95B9-44A2-A145-AE81D58AA59C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{70A895FF-0C0A-4750-88D4-CF9A4D9E598F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E35B50F6-95B9-44A2-A145-AE81D58AA59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35B50F6-95B9-44A2-A145-AE81D58AA59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35B50F6-95B9-44A2-A145-AE81D58AA59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35B50F6-95B9-44A2-A145-AE81D58AA59C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A895FF-0C0A-4750-88D4-CF9A4D9E598F}.Debug|Any CPU.ActiveCfg = Debug
+		{70A895FF-0C0A-4750-88D4-CF9A4D9E598F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7C78A25-956A-4A6C-A8DB-0DE885A7626F}
+	EndGlobalSection
+EndGlobal
